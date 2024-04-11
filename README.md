@@ -1,8 +1,16 @@
-![galaxy](unknown.jpg)
+<p align="center" text-align="center">
+  <img width="400" height="300" src="unknown.jpg">
+</p>
+  
+<p align="center">
+"<em>A hero is somebody who voluntarily walks into the unknown."</em> <sub>Tom Hanks</sub> 
+</p>
+
 ### Hello 👋
 - 🎧 I am Mohamed Abobakr.
 - 💻 I am a Software Engineer.
-- 🎓 B.Sc in Computer engineering from Facutly of Engineering, Cairo University.
+- 🎓 I have earned B.Sc in Computer engineering from Facutly of Engineering, Cairo University.
+  
 
 
 
