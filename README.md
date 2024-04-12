@@ -9,7 +9,7 @@
 ### Hello 👋
 - 🎧 I am Mohamed Abobakr.
 - 💻 I am a Software Engineer.
-- 🎓 I have earned B.Sc in Computer engineering from Facutly of Engineering, Cairo University.
+- 🎓 I have earned a B.Sc in Computer engineering from Facutly of Engineering, Cairo University.
 - 🚀 My interests include space and deep-sea life ⚓.
   
 
