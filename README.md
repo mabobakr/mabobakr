@@ -2,9 +2,7 @@
   <img width="600" height="300" src="unknown.webp">
 </p>
   
-<p align="center">
-"<em>A hero is somebody who voluntarily walks into the unknown."</em> <sub>Tom Hanks</sub> 
-</p>
+
 
 ### Hello 👋
 - 🎧 I am Mohamed Abobakr.
