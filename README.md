@@ -6,8 +6,8 @@
 
 ### Hello 👋
 - 🎧 I am Mohamed Abobakr.
-- 💻 I am a Software Engineer.
-- 🎓 I have earned a B.Sc in Computer engineering from Facutly of Engineering, Cairo University.
+- 💻 I am a motivated Software Engineer with a passion for developing innovative solutions.
+- 🎓 I have earned a B.Sc in Computer engineering from Cairo University.
   
 
 
